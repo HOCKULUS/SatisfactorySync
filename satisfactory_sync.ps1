@@ -1,5 +1,4 @@
-﻿Add-Type -AssemblyName System.Windows.Forms
-
+Add-Type -AssemblyName System.Windows.Forms
 # Pfad zur Textdatei, in der die Eingaben gespeichert werden
 $filePath = Join-Path $env:USERPROFILE "syncdata_satisfactory.txt"
 
