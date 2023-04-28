@@ -9,3 +9,6 @@ This tool automates savefile synchronization between a local folder &amp; FTP se
 2. Select Folder in SaveGames \
 ![grafik](https://user-images.githubusercontent.com/49371920/235237622-ef798210-8c1c-4158-9979-be726cd66472.png) \
 eg. C:\Users\Admin\AppData\Local\FactoryGame\Saved\SaveGames\76561198343856803
+
+3. Try onetime sync or lounch Satisfacory to test your settings \
+![grafik](https://user-images.githubusercontent.com/49371920/235240131-f3df721b-86e2-426c-8134-662a45d97061.png)
