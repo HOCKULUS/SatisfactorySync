@@ -14,5 +14,5 @@ eg. C:\Users\Admin\AppData\Local\FactoryGame\Saved\SaveGames\76561198343856803
 ![grafik](https://user-images.githubusercontent.com/49371920/235240131-f3df721b-86e2-426c-8134-662a45d97061.png)
 
 4. Keep in Mind: \
-this tool was whipped up pretty fast without really worrying too much about making it super efficient or anything. \
+This tool was whipped up pretty fast without really worrying too much about making it super efficient or anything. \
 So there's a chance it's got some bugs in there and could be running smoother if i put in more work.
