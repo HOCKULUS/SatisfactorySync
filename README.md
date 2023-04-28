@@ -1,7 +1,6 @@
 # SatisfactorySync
-This tool automates savefile synchronization between a local folder &amp; FTP server. It runs in the background, syncs on Satisfactory start &amp; can be manually launched from tray. Set to run automatically via Windows Task Scheduler.
-![grafik](https://user-images.githubusercontent.com/49371920/235236266-cb68e072-52a1-4de6-bba5-a0e3d554c3c0.png)
-
+Yo, ever wondered how you could share your Satisfactory world with your buds so you can all keep working on it \
+even when you ain't playing together? Well, look no further 'cause this tool's got your back!
 ## First Launch:
 1. Connect to FTP File Server: \
 ![grafik](https://user-images.githubusercontent.com/49371920/235236998-3f07b8c9-5030-4fc4-a02e-2cb85f21ff27.png)
