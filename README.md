@@ -23,7 +23,7 @@ eg. C:\Users\Admin\AppData\Local\FactoryGame\Saved\SaveGames\76561198343856803
 4. Try onetime sync or launch Satisfacory to test your settings: \
 ![grafik](https://user-images.githubusercontent.com/49371920/235300343-3bf25099-c441-4b7b-99b0-c0855b3addbb.png)
 
-5. Track your sync status:
+5. Track your sync status: \
 As you play, you'll receive some info about when your saved games have been synced successfully. \
 ![grafik](https://user-images.githubusercontent.com/49371920/235240131-f3df721b-86e2-426c-8134-662a45d97061.png)
 
