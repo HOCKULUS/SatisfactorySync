@@ -12,10 +12,10 @@ or use the ps1 file along with the task scheduler to launch the tool. \
 The script was simply packaged with iExpress for easier handling.*
 
 2. run & Connect to FTP File Server: \
-It may be necessary to create a new game in order to avoid mixing up saved game data.
 ![grafik](https://user-images.githubusercontent.com/49371920/235236998-3f07b8c9-5030-4fc4-a02e-2cb85f21ff27.png)
 
 3. Select Folder in SaveGames: \
+It may be necessary to create a new game in order to avoid mixing up saved game data.
 ![grafik](https://user-images.githubusercontent.com/49371920/235237622-ef798210-8c1c-4158-9979-be726cd66472.png) \
 eg. C:\Users\Admin\AppData\Local\FactoryGame\Saved\SaveGames\76561198343856803
 
