@@ -12,6 +12,7 @@ or use the ps1 file along with the task scheduler to launch the tool. \
 The script was simply packaged with iExpress for easier handling.*
 
 2. run & Connect to FTP File Server: \
+It may be necessary to create a new game in order to avoid mixing up saved game data.
 ![grafik](https://user-images.githubusercontent.com/49371920/235236998-3f07b8c9-5030-4fc4-a02e-2cb85f21ff27.png)
 
 3. Select Folder in SaveGames: \
