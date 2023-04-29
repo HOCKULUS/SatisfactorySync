@@ -1,7 +1,6 @@
 # SatisfactorySync
 Yo, ever wondered how you could share your Satisfactory world with your buds so you can all keep working on it \
-even when you ain't playing together? Well, look no further 'cause this tool's got your back!  \
-Go to: https://github.com/HOCKULUS/SatisfactorySync/releases
+even when you ain't playing together? Well, look no further 'cause this tool's got your back!  
 
 ## First Launch:
 1. Download: \
