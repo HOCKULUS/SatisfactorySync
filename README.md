@@ -7,6 +7,7 @@ even when you ain't playing together? Well, look no further 'cause this tool's g
 Go to: https://github.com/HOCKULUS/SatisfactorySync/releases \
 Select the newest version of SatisfactorySync. \
 *If you are having trouble running, it may help to change the execution policy \
+`Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine` \
 or use the ps1 file along with the task scheduler to launch the tool. \
 The script was simply packaged with iExpress for easier handling.*
 
