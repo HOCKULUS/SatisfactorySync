@@ -1,7 +1,7 @@
 # SatisfactorySync
 Yo, ever wondered how you could share your Satisfactory world with your buds so you can all keep working on it \
 even when you ain't playing together? Well, look no further 'cause this tool's got your back! \
-![grafik](https://github.com/HOCKULUS/SatisfactorySync/assets/49371920/efbfe285-3be1-4d1d-b55f-10d4f4d58b05)
+![grafik](https://github.com/HOCKULUS/SatisfactorySync/assets/49371920/c3280445-7669-4105-8bc0-26186e5f8458)
 
 ## First Launch:
 1. Download: \
@@ -22,7 +22,7 @@ to make sure your progress doesn't get mixed up with a different game session.**
 eg. C:\Users\Admin\AppData\Local\FactoryGame\Saved\SaveGames\76561198343856803
 
 4. Try onetime sync or launch Satisfacory to test your settings: \
-![grafik](https://user-images.githubusercontent.com/49371920/235300343-3bf25099-c441-4b7b-99b0-c0855b3addbb.png)
+![grafik](https://github.com/HOCKULUS/SatisfactorySync/assets/49371920/c14cd8e9-c71c-4dd7-83c8-a58accf85b2d)
 
 5. Track your sync status: \
 As you play, you'll receive some info about when your saved games have been synced successfully. \
